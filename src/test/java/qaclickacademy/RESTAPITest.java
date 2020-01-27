@@ -9,6 +9,9 @@ public class RESTAPITest {
 	{
 		System.out.println("This test case for URL login");
 		System.out.println("This test case for URL login from Git Hub");
+		System.out.println("This test case for URL login from Git Hub");
+		System.out.println("This test case for URL login from Git Hub ramana");
+		System.out.println("This test case for URL login from Git Hub rama");
 	}
 	
 	@Test
@@ -16,5 +19,9 @@ public class RESTAPITest {
 	{
 		System.out.println("This test case for Validation for REST");
 		System.out.println("This test case for URL login from Git Hub");
+		System.out.println("This test case for URL login from Git Hub");
+		System.out.println("This test case for URL login from Git Hub ramana");
+		System.out.println("This test case for URL login from Git Hub ramana");
+		
 	}
 }
