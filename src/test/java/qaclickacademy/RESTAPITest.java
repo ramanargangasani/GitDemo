@@ -29,5 +29,9 @@ public class RESTAPITest {
 		
 		System.out.println("modifing develop branch  new method in RESTAPI java");
 	}
-	
+	@Test
+	public void Validationfordevlopbaranchindia()	{
+		
+		System.out.println("modifing develop branch  new method in RESTAPI java devlop india");
+	}
 }

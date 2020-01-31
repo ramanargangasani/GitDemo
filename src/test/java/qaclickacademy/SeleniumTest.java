@@ -24,6 +24,11 @@ public class SeleniumTest {
 		
 		System.out.println("modifing develop branch  new method");
 	}
+	@Test
+	public void Validationfordevlopbaranchindia()	{
+		
+		System.out.println("modifing develop branch  new method india");
+	}
 	
 
 }
