@@ -24,4 +24,10 @@ public class RESTAPITest {
 		System.out.println("This test case for URL login from Git Hub ramana");
 		
 	}
+	@Test
+	public void Validationfordevlopbaranch()	{
+		
+		System.out.println("modifing develop branch  new method in RESTAPI java");
+	}
+	
 }
